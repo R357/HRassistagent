@@ -1,0 +1,212 @@
+{
+  "leave": {
+    "casual": "Employees get 12 casual leaves per year. They can be taken with prior approval from the manager. Casual leaves cannot be clubbed with more than 3 consecutive days without special approval.",
+    "sick": "Employees get 10 sick leaves per year. Medical certificate required for leaves exceeding 3 consecutive days. Sick leave can be availed without prior intimation in case of emergency.",
+    "earned": "Employees earn 1.5 earned leaves per month, totaling 18 per year. Maximum accumulation is 30 days. Unused earned leaves can be encashed at the time of resignation.",
+    "maternity": "Female employees are entitled to 26 weeks of paid maternity leave. Can be availed from 8 weeks before expected delivery date. Maternity leave includes pre and post-natal benefits.",
+    "paternity": "Male employees get 5 days of paid paternity leave within 3 months of child birth. Can be taken continuously or in split mode.",
+    "unpaid": "Unpaid leave can be taken in exceptional circumstances with manager and HR approval. Maximum 30 days unpaid leave allowed per year.",
+    "carryForward": "Maximum 5 casual leaves can be carried forward to next year. Carried forward leaves must be utilized within first quarter of new year.",
+    "bereavement": "3 days paid bereavement leave for immediate family members (parents, spouse, children, siblings). Additional unpaid leave can be requested.",
+    "marriage": "5 days paid marriage leave for employee's own marriage. Can be clubbed with other leaves. Must be availed within 3 months of marriage date.",
+    "adoption": "Adoptive parents get 12 weeks paid adoption leave. Applicable for children below 3 years of age.",
+    "sabbatical": "Sabbatical leave of 3-6 months available after 5 years of service. Subject to management approval and business requirements.",
+    "application": "Leave applications must be submitted at least 3 days in advance except for sick leave and emergencies. Late applications may be rejected.",
+    "cancellation": "Approved leaves can be cancelled with mutual agreement between employee and manager. No penalty for emergency cancellations.",
+    "halfDay": "Half-day leave (4 hours) can be taken with manager approval. Two half-day leaves count as one full day leave.",
+    "leaveDuringNotice": "Leave during notice period is generally not allowed unless approved by manager and HR. Emergency situations will be considered on case basis."
+  },
+  "salary": {
+    "structure": "Salary includes Basic Pay (40%), HRA (30%), Special Allowance (20%), and Other Allowances (10%). Detailed salary breakup provided in offer letter.",
+    "paymentDate": "Salary is credited on the last working day of each month. If last day is a holiday, salary is credited on previous working day.",
+    "increment": "Annual increments are performance-based and typically range from 8-15%. Increment cycle is April to March. Performance review in February-March.",
+    "bonus": "Annual performance bonus ranges from 10-20% of annual salary based on company and individual performance. Bonus paid in April of each year.",
+    "advance": "Salary advance up to 50% of monthly salary available in emergency situations. Must be repaid within 3 months through salary deduction.",
+    "arrears": "Salary arrears due to increments or promotions are paid in the following month's salary along with back-dated calculation.",
+    "deductions": "Standard deductions include PF (12% of basic), Professional Tax, TDS as per IT rules. Detailed deduction slip available in payroll portal.",
+    "paySlip": "Monthly pay slips are available on employee self-service portal by 5th of every month. Can be downloaded in PDF format.",
+    "variablePay": "Variable pay component is 20% of CTC for sales roles, 15% for managerial roles. Paid quarterly based on target achievement.",
+    "ctc": "CTC (Cost to Company) includes all salary components, employer's PF contribution, gratuity provision, insurance premiums, and other benefits.",
+    "reimbursement": "Salary includes reimbursements for mobile (₹1,500), internet (₹500), and fuel (as per actual bills with ₹5,000 cap).",
+    "revision": "Salary revisions happen annually in April. Off-cycle revisions possible for exceptional performance or promotions.",
+    "foreignPosting": "Employees on foreign assignments receive international salary with forex allowance, housing, and relocation benefits.",
+    "minimumWage": "Company ensures all salaries comply with minimum wage laws of respective states and central government guidelines."
+  },
+  "benefits": {
+    "health": "Company provides comprehensive health insurance covering employee and immediate family (spouse and 2 children). Sum insured: ₹5 lakhs. Includes pre and post hospitalization, ambulance charges.",
+    "pf": "Provident Fund: Company contributes 12% of basic salary, employee contributes 12%. PF account created with EPFO. Withdrawals allowed as per EPFO rules.",
+    "gratuity": "Gratuity is payable after completing 5 years of service. Calculated as 15 days salary for each completed year of service. Paid at time of resignation or retirement.",
+    "food": "Subsidized cafeteria available. Employees pay only 30% of actual cost. Breakfast, lunch, and evening snacks provided. Monthly meal allowance: ₹2,000.",
+    "gym": "Company sponsors gym membership up to ₹5,000 per year. Employees can choose any gym. Reimbursement on submission of membership receipt.",
+    "books": "Book allowance of ₹10,000 per year for professional development. Can be used for technical books, online course subscriptions, magazines.",
+    "esi": "ESI (Employee State Insurance) applicable for employees with gross salary below ₹21,000 per month. Covers medical benefits for employee and family.",
+    "groupLife": "Group life insurance of 4x annual salary provided by company. No employee contribution required. Nominee receives amount in case of death.",
+    "accidental": "Group personal accident insurance of 5x annual salary. Covers death and disability due to accidents. Valid 24x7.",
+    "dental": "Dental insurance covers routine checkups, fillings, root canal, extractions. Annual limit: ₹25,000 per family.",
+    "vision": "Vision care includes annual eye checkup and ₹5,000 reimbursement for spectacles or contact lenses.",
+    "wellness": "Annual health checkup provided free of cost. Includes blood tests, ECG, chest X-ray, doctor consultation. Preventive health package for employees above 40 years.",
+    "childcare": "Onsite daycare facility available at nominal charges. Priority given to mothers returning from maternity leave.",
+    "transport": "Company transport available for employees working in shifts. Pick-up and drop facility from designated points. Nominal monthly charge: ₹500.",
+    "relocation": "Relocation assistance of 1 month gross salary for employees relocating for job. Includes packing, moving, and settling expenses.",
+    "stock": "Stock options (ESOPs) available for senior management. Vesting period: 4 years with 1-year cliff. Can be exercised as per company policy.",
+    "parking": "Free parking facility for all employees. Separate parking for two-wheelers, four-wheelers, and bicycles. EV charging points available."
+  },
+  "workingHours": {
+    "timing": "Office hours are 9:30 AM to 6:30 PM, Monday to Friday. Total 8 working hours per day excluding lunch break.",
+    "flexibility": "Flexible timing allowed with prior approval. Core hours (11 AM - 4 PM) are mandatory. Early login/late logout allowed with manager approval.",
+    "remote": "Work from home allowed up to 2 days per week with manager approval. Permanent remote work options available for select roles.",
+    "overtime": "Overtime is compensated with comp-off for same hours worked beyond regular hours. Overtime must be pre-approved by manager. Not applicable for managerial roles.",
+    "breaks": "1 hour lunch break and two 15-minute tea breaks allowed daily. Lunch break timing: 1 PM to 2 PM. Breaks can be taken flexibly during non-core hours.",
+    "shifts": "For 24x7 operations, shifts are rotational: Morning (6 AM-2 PM), Day (2 PM-10 PM), Night (10 PM-6 AM). Shift allowance: ₹200/day for night shifts.",
+    "weekend": "Saturday and Sunday are weekly offs. Occasionally Saturday working if required with advance notice. Alternate Saturday off for manufacturing units.",
+    "attendance": "Attendance marked through biometric system or web check-in for remote workers. Late coming beyond 30 minutes requires manager approval.",
+    "latecoming": "3 instances of late coming (beyond 30 minutes) in a month result in 1 day casual leave deduction. Habitual late coming may affect performance rating.",
+    "earlyLeaving": "Early leaving requires manager approval. Frequent early leaving without approval may result in leave deduction or warning.",
+    "compOff": "Comp-off granted for working on holidays or weekends. Must be approved by manager. Comp-off must be availed within 90 days of earning it.",
+    "nightShift": "Night shift workers (10 PM to 6 AM) get additional ₹200 per day allowance. Free cab facility provided. Extra health checkups every 6 months."
+  },
+  "dressCode": {
+    "general": "Business casual attire required. Neat and professional appearance mandatory. Jeans allowed with formal shirts. No shorts, slippers, or torn clothes.",
+    "friday": "Casual wear allowed on Fridays, but must be decent and appropriate. T-shirts with collar allowed. Avoid offensive graphics or text.",
+    "clientMeeting": "Formal business attire required when meeting clients or attending external events. Men: Suit or formal shirt-trousers. Women: Formal suit or saree.",
+    "safety": "Safety shoes mandatory in manufacturing areas. Hard hats required in construction zones. Lab coats mandatory in labs and clean rooms.",
+    "id": "Company ID card must be worn at all times in office premises. Required for building access, cafeteria, and parking entry."
+  },
+  "holidays": {
+    "count": "15 paid holidays per year including national and regional festivals. List includes Republic Day, Independence Day, Gandhi Jayanti, Diwali, Holi, Christmas, Eid.",
+    "list": "Holiday calendar shared at the beginning of each year via email and company portal. Calendar includes restricted holidays and optional holidays.",
+    "optional": "3 optional holidays can be chosen by employee based on personal preference from list of 10 restricted holidays. Must be intimated to manager in advance.",
+    "sandwiching": "Sandwiching of holidays is discouraged. Maximum 2 instances per year allowed. May require special approval from senior management.",
+    "working": "If company requires working on gazetted holiday, double comp-off will be granted. Payment of double salary if comp-off not availed within 90 days.",
+    "regional": "Regional holidays specific to state/location are applicable. Bangalore office follows Karnataka holidays. Mumbai office follows Maharashtra holidays.",
+    "floater": "2 floater holidays per year can be availed on any day with manager approval. Can be used for personal celebrations or religious occasions."
+  },
+  "onboarding": {
+    "process": "New joiners undergo 1-week orientation covering company policies, systems, and team introductions. Includes sessions on culture, values, products, and tools.",
+    "documents": "Required documents: PAN card, Aadhaar, bank details, educational certificates, previous employment proof, passport size photos, previous employer relieving letter.",
+    "buddy": "Each new joiner is assigned a buddy for first 3 months to help with settling in. Buddy helps with introductions, queries, and navigating company culture.",
+    "feedback": "Onboarding feedback collected after 1 month and 3 months. HR conducts check-in meetings to address concerns and ensure smooth integration.",
+    "training": "Mandatory training includes IT security, workplace harassment prevention (POSH), code of conduct, company policies. Completion certificates required.",
+    "kit": "Welcome kit includes laptop, mouse, ID card, visiting cards, employee handbook, company merchandise (T-shirt, bag, water bottle).",
+    "firstDay": "First day includes HR induction, IT setup, workspace allocation, team lunch. Manager provides role overview and initial goals.",
+    "credentials": "Email ID, system login, payroll portal access, leave management system access provided on Day 1. VPN access for remote work within 3 days."
+  },
+  "policies": {
+    "confidentiality": "Employees must not share confidential company information outside the organization. Includes client data, financial info, product details, strategies. NDA signed at joining.",
+    "codeOfConduct": "Professional behavior expected at all times. Harassment of any kind is strictly prohibited. Zero tolerance for discrimination based on gender, religion, caste, nationality.",
+    "resignation": "Minimum 30 days notice period for resignation. Senior positions require 60-90 days. Buyout of notice period possible with 2 months gross salary.",
+    "nonCompete": "Non-compete clause applicable for 6 months after leaving the organization. Cannot join direct competitors. Violation may result in legal action.",
+    "dataProtection": "All company and client data must be protected. No unauthorized sharing allowed. Data encryption mandatory. GDPR compliance for European data.",
+    "smoking": "Smoking allowed only in designated smoking zones. No smoking in office premises, washrooms, or parking areas. Violation may result in warning.",
+    "alcohol": "No alcohol consumption in office premises except company-organized events. Reporting to work under influence of alcohol is prohibited.",
+    "socialMedia": "Employees should not post confidential company information on social media. No negative posts about company, colleagues, or clients. Personal opinions should be clearly marked as personal.",
+    "conflicts": "Any conflict of interest must be disclosed to HR immediately. Includes financial interests, personal relationships with vendors/clients, outside employment.",
+    "gifts": "Accepting gifts from vendors/clients above ₹5,000 requires disclosure and approval. No cash gifts allowed. All gifts become company property above threshold.",
+    "intellectualProperty": "All work products, inventions, designs created during employment belong to company. Patent rights vest with company. Disclosure agreement signed at joining.",
+    "moonlighting": "Moonlighting or dual employment strictly prohibited without written approval from HR and senior management. May result in termination.",
+    "whistleblower": "Anonymous whistleblower mechanism available to report unethical practices. Protection guaranteed to whistleblowers. No retaliation policy strictly enforced.",
+    "antiHarassment": "POSH (Prevention of Sexual Harassment) policy in place. Internal Complaints Committee (ICC) available. Complaints handled confidentially within 90 days."
+  },
+  "probation": {
+    "duration": "New employees have a probation period of 3 months from date of joining. Probation status clearly mentioned in offer letter.",
+    "extension": "Probation can be extended by another 3 months based on performance. Manager provides feedback and improvement plan for extended probation.",
+    "benefits": "All benefits are applicable during probation period including PF, insurance, leaves. Full salary and benefits from Day 1.",
+    "termination": "Either party can terminate employment with 1 week notice during probation. No severance pay applicable during probation period.",
+    "confirmation": "Probation confirmation depends on satisfactory performance and manager recommendation. Confirmation letter issued on successful completion.",
+    "review": "Performance review conducted at end of 2nd month (mid-probation) and 3rd month (final). Feedback documented and shared with employee.",
+    "training": "Probation period includes intensive training, shadowing, and hands-on projects. Learning curve expected and supported."
+  },
+  "performance": {
+    "frequency": "Performance reviews are conducted twice a year - mid-year (June) and annual (December). Self-appraisal to be submitted before review meeting.",
+    "criteria": "Reviews are based on goal achievement (40%), teamwork (20%), innovation (20%), and leadership (20%). Weightages may vary by role level.",
+    "feedback": "Employees receive 360-degree feedback from managers, peers, and subordinates. Anonymous feedback encouraged for honest inputs.",
+    "promotion": "Promotions are considered during annual performance reviews based on consistent high performance. Minimum 2 years in current role typically required.",
+    "pip": "Performance Improvement Plan (PIP) initiated for underperformance with 90-day improvement period. Monthly reviews with specific goals. Support from manager and HR.",
+    "ratings": "5-point rating scale: Outstanding (5), Exceeds Expectations (4), Meets Expectations (3), Needs Improvement (2), Unsatisfactory (1). Bell curve applied at organization level.",
+    "goal": "SMART goals set at beginning of year. Quarterly goal review meetings. Goals can be revised based on business changes with manager approval.",
+    "calibration": "Manager ratings calibrated with peer managers and senior management. Ensures fairness and consistency across teams.",
+    "development": "Individual Development Plan (IDP) created post review. Focus on skill development, career progression, training needs."
+  },
+  "training": {
+    "budget": "Each employee has an annual training budget of ₹50,000. Can be used for courses, certifications, conferences, workshops.",
+    "courses": "Employees can attend conferences, workshops, online courses, and certifications relevant to role. Platforms: Udemy, Coursera, LinkedIn Learning subscriptions provided.",
+    "approval": "Training requests must be approved by manager and HR minimum 2 weeks in advance. Business relevance must be justified.",
+    "timeOff": "Paid time off is provided for approved training programs. No leave deduction for attending approved training.",
+    "certification": "Certification exam fees reimbursed upon successful completion and certificate submission. Popular certifications: PMP, AWS, Azure, Google Cloud, ITIL.",
+    "inhouse": "In-house training programs conducted quarterly on leadership, technical skills, soft skills, compliance. Attendance mandatory for relevant programs.",
+    "freshers": "Fresher training program of 3 months covering technical skills, soft skills, tools, domain knowledge. Mentorship assigned.",
+    "crossFunctional": "Cross-functional training encouraged to understand different departments. Job rotation programs available for interested employees.",
+    "languages": "Foreign language training provided for employees working with international clients. Languages: German, French, Spanish, Japanese."
+  },
+  "expenses": {
+    "travel": "Business travel expenses are reimbursed within 15 days of submission with proper bills. Travel advance available on request.",
+    "mobile": "₹1,500 monthly reimbursement for mobile and internet expenses. Reimbursed through salary. No bills required.",
+    "fuel": "Fuel reimbursement for two-wheelers: ₹2 per km, four-wheelers: ₹5 per km based on official travel. Odometer reading and fuel bills required.",
+    "submission": "Expense claims must be submitted within 30 days with proper receipts. Delayed submissions may be rejected. Use expense management portal.",
+    "accommodation": "Hotel stay reimbursed up to ₹3,000 per night for domestic travel, ₹8,000 for international. Higher amounts need pre-approval.",
+    "food": "₹500 per day food allowance for outstation travel. ₹1,500 per day for international travel. Bills required for amounts above ₹200.",
+    "taxi": "Cab/taxi charges reimbursed for business travel. Uber/Ola bills accepted. Airport pickup/drop reimbursed.",
+    "flight": "Economy class flights for domestic travel. Business class for international flights above 6 hours. Flight tickets booked through company travel desk.",
+    "perdiem": "Per diem allowance for extended outstation stays: ₹1,000/day domestic, ₹50 USD/day international for miscellaneous expenses.",
+    "visa": "Visa fees and passport charges reimbursed for business travel. Process initiated by HR. Employee submits documents."
+  },
+  "it": {
+    "laptop": "Company-provided laptop must be returned upon resignation within 24 hours. Personal data must be backed up before return. Laptop remains company property.",
+    "software": "Licensed software only. No pirated software allowed on company devices. Request software through IT ticketing system.",
+    "support": "IT helpdesk available 24/7 for technical support. Email: itsupport@company.com, Phone: 1800-XXX-XXXX. Response time: 4 hours for critical issues.",
+    "backup": "Regular backup of work data is mandatory to prevent data loss. Use company-provided cloud storage (1TB per employee). Weekly backup reminders sent.",
+    "security": "Strong passwords required (min 12 characters, alphanumeric, special characters). 2-factor authentication mandatory for all systems. Password change every 90 days.",
+    "byod": "Bring Your Own Device (BYOD) allowed with MDM (Mobile Device Management) installation. Company email can be accessed on personal devices.",
+    "vpn": "VPN access mandatory for accessing company systems from outside office. Instructions provided by IT. Use company-approved VPN only.",
+    "email": "Official email for business communication only. Personal use discouraged. Mailbox limit: 50GB. Archive old emails regularly.",
+    "access": "System access based on role. Additional access requires manager approval. Access revoked immediately upon resignation for security."
+  },
+  "grievance": {
+    "process": "Employees can raise grievances to HR (hr@company.com) or use anonymous grievance portal (grievance.company.com). Strict confidentiality maintained.",
+    "resolution": "All grievances addressed within 15 working days. Acknowledgment sent within 24 hours. Resolution communicated via email.",
+    "escalation": "Unresolved grievances can be escalated to senior management or CEO office. Escalation matrix available on company intranet.",
+    "whistleblower": "Whistleblower protection provided for reporting unethical practices, fraud, harassment. Anonymous reporting available. Legal protection guaranteed.",
+    "ombudsman": "Independent ombudsman available for sensitive issues. External third-party for unbiased investigation. Contact: ombudsman@company.com",
+    "committee": "Internal Complaints Committee (ICC) for POSH cases. Grievance Redressal Committee for other workplace issues. Employee representatives included.",
+    "retaliation": "Zero tolerance for retaliation against employees raising genuine grievances. Retaliatory action is grounds for disciplinary action against perpetrator."
+  },
+  "exit": {
+    "resignation": "Submit resignation letter to manager and HR via email. Notice period as per company policy (30/60/90 days based on level).",
+    "notice": "Notice period can be served or bought out by paying equivalent gross salary. Buyout subject to manager and business approval.",
+    "clearance": "Exit clearance from all departments mandatory: IT (laptop, access cards), Admin (ID card, books), Finance (advance settlement), HR (full and final).",
+    "interview": "Exit interview conducted by HR to understand reasons for leaving and gather feedback. Feedback used for organizational improvements. Optional but encouraged.",
+    "handover": "Proper handover of responsibilities, projects, documents to be completed during notice period. Handover checklist provided by manager.",
+    "settlement": "Full and final settlement processed within 45 days of last working day. Includes pending salary, leave encashment, bonus, reimbursements, less recoveries.",
+    "relieving": "Relieving letter and experience certificate issued on last working day. Service certificate issued within 7 days of request.",
+    "reference": "Company provides employment reference letters upon request. References limited to dates of employment, designation, and general conduct.",
+    "alumni": "Company maintains alumni network. Alumni portal access for networking, job postings, events. Alumni eligible for referral bonus."
+  },
+  "referral": {
+    "bonus": "Employee referral bonus: ₹25,000 for technical roles, ₹15,000 for non-technical roles. Paid after referred candidate completes 3 months.",
+    "process": "Submit referral through company careers portal. Referrer name auto-tagged. Referrer kept informed of application status.",
+    "eligibility": "All permanent employees eligible to refer. Cannot refer relatives (spouse, siblings, parents, children). Referrer must have completed probation.",
+    "limit": "No limit on number of referrals. Multiple bonuses allowed. Top referrers recognized quarterly.",
+    "rejection": "If referred candidate not selected, feedback shared with referrer. Candidate can reapply after 6 months for different role."
+  },
+  "diversity": {
+    "policy": "Company committed to diversity and inclusion. Equal opportunity employer. No discrimination based on gender, religion, caste, nationality, disability, age.",
+    "womenEmpowerment": "Special initiatives for women: flexi-hours for mothers, extended maternity leave, daycare facility, women safety committee, women leadership programs.",
+    "disability": "Differently-abled friendly infrastructure. Ramps, elevators, accessible washrooms. Special recruitment drives. Assistive technology provided.",
+    "lgbtq": "LGBTQ+ inclusive policies. Gender-neutral dress code. Same-sex partner benefits. Pride month celebrations. Ally training programs.",
+    "ageDiversity": "No age limit for hiring. Experience valued. Senior employee mentorship programs. Retirement planning support."
+  },
+  "rewards": {
+    "spotAwards": "Spot awards of ₹5,000-₹10,000 for exceptional contributions. Manager can nominate anytime. Cash + certificate.",
+    "quarterlyAwards": "Best performer awards quarterly in each department. ₹25,000 cash + trophy + recognition in town hall.",
+    "annualAwards": "Annual awards gala: Employee of Year (₹1 lakh), Rising Star (₹50,000), Best Team (₹1 lakh shared). All expenses paid for awards night with family.",
+    "longService": "Long service awards: 5 years (gold coin), 10 years (vacation package), 15 years (car/bike), 25 years (special recognition + sabbatical).",
+    "innovation": "Innovation awards for new ideas, process improvements, patents. Quarterly cycle. Winning ideas implemented with credit. ₹50,000 for best innovation."
+  },
+  "workLifeBalance": {
+    "flexible": "Flexible working arrangements available: flexi-hours, work from home, compressed work week, part-time options for specific situations.",
+    "mentalHealth": "Mental health support: Free counseling sessions, Employee Assistance Program (EAP), stress management workshops, meditation rooms.",
+    "familySupport": "Emergency leave for family medical situations. Parental care leave. Elder care support. Family day events.",
+    "hobbies": "Hobby clubs: Sports (cricket, football, badminton), Arts (painting, photography), Music, Book club, Trekking. Company sponsors equipment/events.",
+    "celebrations": "Monthly birthday celebrations. Festival celebrations (Diwali, Christmas, Holi, Eid). Annual day. Family picnic. Sports day."
+  }
+}
